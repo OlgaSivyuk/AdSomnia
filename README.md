@@ -39,4 +39,6 @@ This repository represents the work of a multidisciplinary team created during A
 My primary contribution was focused on UX/UI design and user experience decisions.
 
 <img src="logoAS.png" width="100">
-[TestFlight](https://testflight.apple.com/join/ZCQheBVj).
+<a href="https://testflight.apple.com/join/ZCQheBVj">
+    Download via TestFlight
+</a>

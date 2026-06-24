@@ -37,3 +37,5 @@ Key principles:
 This repository represents the work of a multidisciplinary team created during Apple Developer Academy.
 
 My primary contribution was focused on UX/UI design and user experience decisions.
+
+<img src="logoAS.png" width="100">

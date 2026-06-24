@@ -2,6 +2,8 @@
 
 A team project developed at Apple Developer Academy focused on supporting healthier sleep habits through a calm and intuitive mobile experience.
 
+<img src="screen.png" width="800">
+
 ## My Role
 
 **UX/UI Designer**
